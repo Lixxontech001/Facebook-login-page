@@ -1,0 +1,56 @@
+body {
+  background-color: #FFFFFF;
+  font-family: Arial, sans-serif;
+}
+.login-container {
+  display: flex;
+  max-width: 350px;
+  align-items: center;
+  margin: 50px auto;
+  flex-direction: column;
+}
+.logo {
+  color: #1225FE;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+input {
+  width: 90%;
+  margin: 5px auto;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  background: #EBEBEB;
+}
+.login {
+  color: white;
+  background: #2E3FFF;
+  padding: 12px;
+  width: 90%;
+  margin: 20px;
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.or {
+  margin-top: 1px;
+}
+.forgot {
+  margin: 30px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.new {
+  color: white;
+  background: #03B246;
+  padding: 10px;
+  font-weight: 900;
+  font-size: 15px;
+  border: none;
+  width: 60%;
+}
+.foot, footer {
+  color: #C1C1C1;
+  margin: 25px;
+}
